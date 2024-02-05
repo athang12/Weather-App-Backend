@@ -5,7 +5,7 @@ const cors = require("cors");
 
 
 const app = express();
-const PORT = process.env.Port || 3001;
+const PORT = process.env.PORT || 3001;
 // const apiKey = "cc525bd1fbd2601be9e383269a19f61e";
 // const apiUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&units=metric&appid=${apiKey}`;
 
